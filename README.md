@@ -25,6 +25,8 @@ Realice el tutorial por completo y le hice pequeñas
 modificaciones para que me sirva de plantilla
 Cambios:
 Trabaje con Db Postgres y actualice a Bootstrap 5.
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -39,3 +41,14 @@ me adapto a las nuevas tecnologías...
 
 E-mail: gismodes37@pcsupport-stg.com
 Web-Site: www.pcsupport-stg.com
+
+## Used By
+
+This project is used by the following companies:
+
+- STG Servicios Tecnológicos Generales SpA
+
+
+## Support
+
+For support, email gismodes37@pcsupport-stg.com 
