@@ -21,11 +21,17 @@ que no sabe codificar le sirva de alguna ayuda.
 - [UskoKruM2010](https://github.com/UskoKruM/django-crud-sqlite3)
 
 Este Crud fue desarrollado en el Canal de UskoKruM2010, el titulo es : CRUD Completo con Django y SQLite: ORM, Bootstrap, JavaScipt.
-Realice el tutorial por completo y le hice pequeñas 
-modificaciones para que me sirva de plantilla
-Cambios:
-Trabaje con Db Postgres y actualice a Bootstrap 5.
+Realice el tutorial por completo.
 
+## Optimizations
+
+ Le hice pequeñas modificaciones para que me sirva 
+ de plantilla Cambios: Trabaje con Db Postgres y 
+ actualice a Bootstrap 5.
+
+ Proximos cambios: La idea es trabajar en un complemento 
+ para registro de usuarios, logeo y salida del 
+ sistema.
 
 ## License
 
